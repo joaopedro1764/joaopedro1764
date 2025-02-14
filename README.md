@@ -34,13 +34,8 @@
   
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)&nbsp;
+![TypeScript] <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaopedro1764}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=103778&height=120&section=footer"/>
