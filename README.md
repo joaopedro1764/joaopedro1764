@@ -33,9 +33,9 @@
 </div>
   
 ### Studying in this moment:
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
 
 
 <div align="center">
